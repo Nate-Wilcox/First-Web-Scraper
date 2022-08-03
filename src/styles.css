@@ -1,0 +1,7 @@
+* {
+	padding: 1rem;
+	align-items: flex-start;
+	text-overflow: ellipsis;
+	background-color: #474747;
+	color: #bcbcbc;
+}
